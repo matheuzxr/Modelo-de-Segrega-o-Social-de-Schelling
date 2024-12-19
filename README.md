@@ -1,7 +1,7 @@
 Bibliotecas adicionadas
 
-As únicas bibliotecas usadas são “<iostream>”, padrão para entrada e saída de
-dados, e “<ctime>”, importante nos processos de randomização baseados no tempo.
+As únicas bibliotecas usadas são “iostream”, padrão para entrada e saída de
+dados, e “ctime”, importante nos processos de randomização baseados no tempo.
 
 Inicialização da matriz
 
